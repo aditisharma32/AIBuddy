@@ -1,6 +1,6 @@
 # AIBuddy: Simplifying your tasks with AI
 
-### Live Link : Available soon...
+### Live Link : https://aditi-aibuddy.netlify.app/
 
 #### to make this run in your system kinldy change the api keys in all those 6 functionality components separately
 
